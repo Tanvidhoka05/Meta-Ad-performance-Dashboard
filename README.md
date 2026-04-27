@@ -19,6 +19,10 @@ The dataset includes the following Tables:
 * Users.csv
 ---
 <img width="906" height="513" alt="image" src="https://github.com/user-attachments/assets/8ba16c17-2c50-4f43-852f-527f6b1feaed" />
+## 🚀 How to Use
+* Download the .pbix file from the repository
+* Open in Power BI Desktop
+* Interact with filters and visuals to explore insights
 
 ## 🔍 Key Insights
 
